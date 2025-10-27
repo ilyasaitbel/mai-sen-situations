@@ -17,3 +17,31 @@
 .p1{
     margin: 30px;
 }
+.card1{
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 250px;
+    background-color: rgb(178, 169, 169);
+    border-top: solid 10px blue;
+}
+.card2{
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 250px;
+    background-color: rgb(178, 169, 169);
+    border-top: solid 10px rgb(255, 0, 64);
+}
+.card3{
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 250px;
+    background-color: rgb(178, 169, 169);
+    border-top: solid 10px rgb(204, 255, 0);
+}
+.card4{
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 250px;
+    background-color: rgb(178, 169, 169);
+    border-top: solid 10px rgb(0, 255, 242);
+}
