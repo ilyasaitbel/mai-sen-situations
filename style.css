@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.title1{
+    color: hsl(212, 6%, 44%); 
+    text-align: center;
+    margin-top: 30px;
+    font-size: 3vh;
+}
+.title2{
+    color: hsl(234, 12%, 34%);
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 3vh;
+}
+.p1{
+    margin: 30px;
+}
